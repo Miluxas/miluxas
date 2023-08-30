@@ -1,7 +1,7 @@
 ### <div align="center">I'm Milad, a Backend developer 👨‍💻 working remotely since 2008 🚀</div>  
   
 
-- 🔭 I’m currently working on [A Recipe sharing App Backend](https://github.com/Miluxas/RecipeApi) 
+- 🔭 I’m currently working on [Recipe sharing App Backend](https://github.com/Miluxas/RecipeApi) and [Local Artisans App Backend](https://github.com/Miluxas/localArtisansApi)
   
 
 - 🌱 I’m currently skilling up NestJs and .Net Core  
